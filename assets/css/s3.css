@@ -1,0 +1,18 @@
+.s3-slide {
+    background-image: linear-gradient(to bottom, #01DAEC, #004654, #000000 )
+}
+
+.s3-slide {
+    height: 685px !important;
+    width:453px !important;
+    
+}
+
+
+.owl-item:nth-child(1) {
+    margin-left: 260px !important;
+}
+
+.owl-item {
+    width:auto !important
+}
